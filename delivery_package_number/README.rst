@@ -67,13 +67,14 @@ packages by selecting the option "Avoid set number of packages" in the
 operation type.
 
 Select "Force set number of packages" in the operation type to request a
-number even without a carrier. "Avoid set number of packages" takes precedence.
-The wizard is skipped when a number is already set. When validating several
-pickings of the same operation type, enter a separate number on each line.
+number even without a carrier. "Avoid set number of packages" takes
+precedence. The wizard is skipped when a number is already set. When
+validating several pickings of the same operation type, enter a separate
+number on each line.
 
-Enable label printing in the operation type and select the package number
-report to print one label per package. Labels are numbered from 1 to the total
-and can also be printed from the picking's Print menu.
+Enable label printing in the operation type and select the package
+number report to print one label per package. Labels are numbered from 1
+to the total and can also be printed from the picking's Print menu.
 
 Bug Tracker
 ===========
